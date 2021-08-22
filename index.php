@@ -1,5 +1,5 @@
 <?php
 
-include_once("web2.html");
+include_once("index.html.html");
 
 ?>

@@ -65,9 +65,9 @@ body {
 <div class="header">
   <a href="#Logo" class="logo" style="padding-left:25px">Logo-name</a>
   <div class="header-right">
-    <a href="index.html.html">Home</a>
-    <a class="active" href="#Contact">Contact</a>
-    <a href="nextpage.html">About</a>
+    <a href="Home">Home</a>
+    <a class="active" href="Contact">Contact</a>
+    <a href="About">About</a>
   </div>
 </div>
 

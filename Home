@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css" />
 <style>
 * {box-sizing: border-box;}
 
@@ -65,17 +66,81 @@ body {
 <div class="header">
   <a href="#Logo" class="logo" style="padding-left:25px">Logo-name</a>
   <div class="header-right">
-    <a class="active" href="Home">Home</a>
-    <a href="Contact">Contact</a>
-    <a href="About">About</a>
+    <a class="active" href="#home">Home</a>
+    <a href="nextpage2.html">Don't Click</a>
+    <a href="nextpage.html">About</a>
   </div>
 </div>
 
 <div style="padding-left:20px">
-  <h1>I make things</h1>
-  <p></p>
-  <p></p>
+  <h1>What's Poppin<h1>
+  <p>
+  HELLLLLOOOOOOOOOOOOO<br>OOOOOOOOOOOOOOOOOOOOOO
+  OOOOOOOOO<br>
+  OOOOOOOOOOOO<br>
+  OOOOOOOOOOOOO
+  OOOOOOOOOOOOOOOOOOOOO
+  OOOOOOOOOOOOOO</p>
+    OOOOOOOOO<br>
+  OOOOOOOOOOOO<br>
+  OOOOOOOOOOOOO
+  OOOOOOOOOOOOOOOOOOOOO
+  OOOOOOOOOOOOOO</p>
+    OOOOOOOOO<br>
+  OOOOOOOOOOOO<br>
+  OOOOOOOOOOOOO
+  OOOOOOOOOOOOOOOOOOOOO
+  OOOOOOOOOOOOOO</p>
 </div>
 
 </body>
+ <footer>
+   <div class="content">
+     <div class="left box">
+       <div class="upper">
+         <div class="topic">About us</div>
+         <p>CodingLab is a channel where you can learn HTML,
+         CSS, and also JavaScript along with creative CSS Animations and Effects.</p>
+       </div>
+       <div class="lower">
+         <div class="topic">Contact us</div>
+         <div class="phone">
+           <a href="#"><i class="fas fa-phone-volume"></i>+007 9089 6767</a>
+         </div>
+         <div class="email">
+           <a href="#"><i class="fas fa-envelope"></i>abc@gmail.com</a>
+         </div>
+       </div>
+     </div>
+     <div class="middle box">
+       <div class="topic">Our Services</div>
+       <div><a href="#">Web Design, Development</a></div>
+       <div><a href="#">Web UX Design, Reasearch</a></div>
+       <div><a href="#">Web User Interface Design</a></div>
+       <div><a href="#">Theme Development, Design</a></div>
+       <div><a href="#">Mobile Application Design</a></div>
+       <div><a href="#">Wire raming & Prototyping</a></div>
+     </div>
+     <div class="right box">
+       <div class="topic">Subscribe us</div>
+       <form action="#">
+         <input type="text" placeholder="Enter email address">
+         <input type="submit" name="" value="Send">
+         <div class="media-icons">
+           <a href="#"><i class="fab fa-facebook-f"></i></a>
+           <a href="#"><i class="fab fa-instagram"></i></a>
+           <a href="#"><i class="fab fa-twitter"></i></a>
+           <a href="#"><i class="fab fa-youtube"></i></a>
+           <a href="#"><i class="fab fa-linkedin-in"></i></a>
+         </div>
+       </form>
+     </div>
+   </div>
+   <div class="bottom">
+     <p>Copyright © 2020 <a href="#">CodingLab</a> All rights reserved</p>
+   </div>
+ </footer>
+
+</body>
 </html>
+

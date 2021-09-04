@@ -13,7 +13,7 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: #2f24c7;
+  background-color: #111;
   padding: 20px 10px;
 }
 
@@ -31,6 +31,7 @@ body {
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
+  color:white;
 }
 
 .header a:hover {
@@ -66,15 +67,14 @@ body {
 <div class="header">
   <a href="#Logo" class="logo" style="padding-left:25px">Logo-name</a>
   <div class="header-right">
-    <a href="Home">Home</a>
-    <a href="Contact"></a>
-    <a class="active" href="#About">About</a>
+    <a href="index.html.html" style="color:white">Home</a>
+    <a href=""></a>
+    <a class="active" href="" style="color:white">About</a>
   </div>
 </div>
 
 <div style="padding-left:20px">
 <h1> Still developing </h1>
-<p><br>
 <br>
 <br>
 <br>
@@ -85,8 +85,6 @@ body {
 <br>
 <br>
 <br>
-<br>
-<br>.</p>
 </div>
 
 </body>
@@ -133,7 +131,7 @@ body {
      </div>
    </div>
    <div class="bottom">
-     <p>Copyright © 2020 <a href="#">-idk what to name-</a> All rights reserved</p>
+     <p>Copyright © 2020 <a href="#">"Inset name"</a> All rights reserved</p>
    </div>
  </footer>
 

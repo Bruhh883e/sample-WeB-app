@@ -65,26 +65,33 @@ body {
 <body>
 
 <div class="header">
-  <a href="#Logo" class="logo" style="padding-left:25px">Logo-name</a>
+  <a href="#Logo" class="logo" style="padding-left:25px" >Logo-name</a>
   <div class="header-right">
-    <a href="index.html.html" style="color:white">Home</a>
-    <a href=""></a>
-    <a class="active" href="" style="color:white">About</a>
+    <a class="active" href="#home" style="color:white;">Home</a>
+    <a href="nextpage2.html" ></a>
+    <a href="nextpage.html" style="color:white;">About</a>
   </div>
 </div>
 
 <div style="padding-left:20px">
-<h1> Still developing </h1>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+  <h1>What's Poppin<h1>
+  <p>
+  HELLLLLOOOOOOOOOOOOO<br>OOOOOOOOOOOOOOOOOOOOOO
+  OOOOOOOOO<br>
+  OOOOOOOOOOOO<br>
+  OOOOOOOOOOOOO
+  OOOOOOOOOOOOOOOOOOOOO
+  OOOOOOOOOOOOOO</p>
+    OOOOOOOOO<br>
+  OOOOOOOOOOOO<br>
+  OOOOOOOOOOOOO
+  OOOOOOOOOOOOOOOOOOOOO
+  OOOOOOOOOOOOOO</p>
+    OOOOOOOOO<br>
+  OOOOOOOOOOOO<br>
+  OOOOOOOOOOOOO
+  OOOOOOOOOOOOOOOOOOOOO
+  OOOOOOOOOOOOOO</p>
 </div>
 
 </body>
@@ -131,7 +138,7 @@ body {
      </div>
    </div>
    <div class="bottom">
-     <p>Copyright © 2020 <a href="#">"Inset name"</a> All rights reserved</p>
+     <p>Copyright © 2020 <a href="#">"insert name"</a> All rights reserved</p>
    </div>
  </footer>
 

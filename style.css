@@ -6,6 +6,15 @@
   font-family: 'Poppins',sans-serif;
   text-decoration: none;
 }
+body {
+  background-color: rgb(255, 255, 255);
+}
+h1 {
+  color: #2F4F4F;
+}
+p {
+  color: #2F4F4F;
+}
 footer{
   width: 100%;
   position: relative; fixed

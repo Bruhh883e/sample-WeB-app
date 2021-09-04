@@ -69,7 +69,7 @@ body {
   <div class="header-right">
     <a class="active" href="#home" style="color:white;">Home</a>
     <a href="nextpage2.html" ></a>
-    <a href="nextpage.html" style="color:white;">About</a>
+    <a href="About" style="color:white;">About</a>
   </div>
 </div>
 

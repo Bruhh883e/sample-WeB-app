@@ -68,7 +68,7 @@ body {
   <div class="header-right">
     <a class="active" href="#home" >Home</a>
     <a href="nextpage2.html" ></a>
-    <a href="nextpage.html" >About</a>
+    <a href="About" >About</a>
   </div>
 </div>
 
